@@ -1,4 +1,4 @@
-### Hi there 👋
+![duck](https://c.tenor.com/wJoIg9kMUB0AAAAC/duck-spin.gif "duck")
 
 <!--
 **lunar-d/lunar-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
