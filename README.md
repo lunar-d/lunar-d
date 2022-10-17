@@ -1,3 +1,4 @@
+![duckrule](title.svg "duckrule")
 ![duck](https://c.tenor.com/wJoIg9kMUB0AAAAC/duck-spin.gif "duck")
 
 <!--
