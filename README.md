@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="title.svg" alt="duckrule"/>
+  <img src="https://c.tenor.com/wJoIg9kMUB0AAAAC/duck-spin.gif" alt="duck"/>
+</p>
+
+
+
+<!--
 ![duckrule](title.svg "duckrule")
 ![duck](https://c.tenor.com/wJoIg9kMUB0AAAAC/duck-spin.gif "duck")
 
-<!--
 **lunar-d/lunar-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
