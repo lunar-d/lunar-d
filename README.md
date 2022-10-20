@@ -1,3 +1,5 @@
+![duckrule](ui1.svg "SteamProfile")
+
 <p align="center">
   <img src="title.svg" alt="duckrule"/>
   <img src="https://c.tenor.com/wJoIg9kMUB0AAAAC/duck-spin.gif" alt="duck"/>
